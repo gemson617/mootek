@@ -1,0 +1,26 @@
+{
+    "font awesome 6 brands": {
+        "normal": "font_awesome_6_brands_normal_ba95da0e0ed26cb50aa2f3bfa6de4224"
+    },
+    "font awesome 6 free": {
+        "normal": "D:\\NRG_Projects\\storage\\fonts\/font_awesome_6_free_normal_d14e05f732166b536c9f3e3c128da324",
+        "900": "font_awesome_6_free_900_fc6b653d35d5d856773a176618f15b8a"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_ba95da0e0ed26cb50aa2f3bfa6de4224"
+    },
+    "font awesome 5 free": {
+        "900": "D:\\NRG_Projects\\storage\\fonts\/font_awesome_5_free_900_fc6b653d35d5d856773a176618f15b8a",
+        "normal": "font_awesome_5_free_normal_d14e05f732166b536c9f3e3c128da324"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_e1a313ca83905f53a32ee29693775520"
+    },
+    "montserrat": {
+        "300_italic": "D:\\NRG_Projects\\storage\\fonts\/montserrat_300_italic_fb5a415793464dedbdefb17fc42d396a",
+        "300": "D:\\NRG_Projects\\storage\\fonts\/montserrat_300_39b1972e72c43f1f0e368a33cc82c0ce",
+        "normal": "D:\\NRG_Projects\\storage\\fonts\/montserrat_normal_b74b751c20b429298921949795391ef1",
+        "500": "D:\\NRG_Projects\\storage\\fonts\/montserrat_500_a34ab50d0b60a015b62e11133b0bf05b",
+        "bold": "montserrat_bold_4b7576218464d90344a2d2769cab2f75"
+    }
+}

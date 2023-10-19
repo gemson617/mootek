@@ -1,0 +1,147 @@
+/* .app .container {
+    max-width: 99%;
+}
+
+.input-append {margin-left: -1px;}
+img.header-brand-img {height: 45px;}
+.step-anchor {z-index: 0;}
+table.table th {
+	text-transform: capitalize;
+}
+
+
+div.header.top-header {background: #e2662c;}
+ div.hor-menu.horizontal-main {margin-top: 0px;z-index: 10;width:100%;position: unset;background:none;} 
+.header-notify .pulse {
+	width: 9px;
+	height: 9px;
+	border: 1px solid #fff;
+	top: 0.4rem;
+}
+
+#horizontal-navtoggle.animated-arrow span,
+#horizontal-navtoggle.animated-arrow span::before,
+#horizontal-navtoggle.animated-arrow span::after {
+	background: #fff;
+}
+
+
+.order-search-table .dataTables_filter {display: none;}
+.color-info-inner span {
+	position: relative;
+	padding-left: 13px;
+	margin: 1px 6px 0px 0px;
+	font-weight: 400;
+	color: #000;
+	font-size: 12px;
+	padding-right: 5px;
+}
+.color-info-inner span::before {
+	border: 1px solid #e9ecef;
+	border-radius: 50%;
+	position: absolute;
+	content: "";
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	margin-right: 5px;
+	left: 0;
+	top: 2px;
+}
+.docket-notneeded::before {
+	background-color: #f66;
+}
+.stocktransfer::before {
+	background-color: #e83e8c;
+}
+.stock-pickup::before {
+	background-color: #6f42c1;
+}
+.docket-recurring::before {
+	background-color: #f1f1f3;
+}
+.docket-reschedule::before {
+	background-color: #f08700;
+}
+.docket-phone::before {
+	background-color: #dbe4ee;
+}
+.docket-bulk::before {
+	background-color: plum;
+}
+.docket-passed-delivery-date::before {
+	background-color: #dc3545;
+}
+
+.date-badge {
+	width: 60px;
+	border-radius: 0 0 10px 10px;
+	right: 20px;
+	top: 0;
+}
+	.date-text {
+	line-height: 38px;
+}
+.pay-metrix td {color: #2d66f7 !important;width:20%}
+.pay-metrix .text-danger {color: #f95058 !important;}
+.pay-metrix .text-success {color: #2dce89 !important;}
+.tab_wrapper .content_wrapper .tab_content{padding: 5px !important;}
+.card {margin-bottom: 0.5rem !important;}
+select.form-control {height: 27px !important;}
+
+@media (min-width: 1025px) {
+.hor-menu .horizontalMenu > .horizontalMenu-list > li > a {
+	padding: 5px 0px 5px !important;
+	color: #fff;
+}
+.horizontalMenu>.horizontalMenu-list>li>a i {
+	font-size: 13px;
+}
+.horizontalMenu > .horizontalMenu-list > li > a i {
+	margin-right: 0px;
+}
+}
+
+*/
+
+/* ****************** Admin section code start from here ******************  */
+.admin-menus > li {
+	margin: 0 8px;
+	font-size: 15px;
+}
+.admin-menus li a {
+	width: 100%;
+	display: inline-block;
+}
+@media (max-width: 767px) {
+.admin-menus > li {
+	margin: 0 8px 10px;
+}
+}
+/* ****************** Admin section code end here ******************  */
+
+/* ****************** Global 767 width code start from here ******************  */
+@media (max-width: 767px) {
+.page-header {
+	-ms-flex-direction: column !important;
+	flex-direction: column !important;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+.page-leftheader {
+	margin: 0 15px 10px;
+	text-align: center;
+}
+.page-rightheader button.btn-sm {
+	margin-bottom: 7px;
+}
+.agas-credits {
+	display: block;
+	margin: 12px 0 12px !important;
+}
+.date-badge {
+	width: 45px;
+	border-radius: 0px 0 5px 5px;
+}
+}
+/* ****************** Global 767 width code start from here ******************  */

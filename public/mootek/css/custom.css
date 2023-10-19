@@ -1,0 +1,75 @@
+/* .page-header
+{
+	margin: 0.5rem 0 0.5rem !important;
+}
+.page-title
+{
+	font-size: 20px !important;
+    font-weight: bold !important;
+}
+
+.list-group-item
+{
+	padding: 0.25rem 1.25rem !important;
+}
+
+.card-body
+{
+	padding: 0.5rem 0.5rem !important;
+}
+
+.card-header
+{
+	min-height: 2.0rem !important;
+}
+/* .table td {
+    padding: 0.1rem !important;
+    font-size: 12px !important;
+} */
+/* .table th, .text-wrap table th
+{
+	font-size: 13px !important;	
+	text-transform: uppercase !important;
+}
+
+.form-group {
+    margin-bottom: 0.30rem !important;
+}
+
+label {
+    margin-bottom: 0.2rem !important;
+}
+
+select.form-control:not([size]):not([multiple]) {
+    height: 1.9rem !important;
+}
+
+.tab_wrapper > ul li
+{
+	padding: 2px 18px !important;
+	font-size: 0.90em !important;
+}  */
+
+/* .hor-menu .horizontalMenu>.horizontalMenu-list>li {
+    width: 9%;
+} */
+.card-body .d-sm-flex.align-items-center{
+	height: 20px;
+}
+@media (min-width: 1025px) and (max-width: 1600px)
+.page-main .hor-menu .horizontalMenu > .horizontalMenu-list > li > a {
+    padding: 0.8rem 0.35rem 0.5rem !important;
+}
+
+@media (min-width: 992px)
+{
+	.app-content.page-body {
+	    margin-top: 4rem !important;
+	}
+}
+@media only screen and (max-width: 991px)
+{
+	.hor-menu .horizontalMenu>.horizontalMenu-list>li {
+		width: 98%;
+}
+}
